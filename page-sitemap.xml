@@ -32,8 +32,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./meetings/index.html</loc>
+		<lastmod>2024-10-20T19:46:44+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/DSCF9508-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./join-us/index.html</loc>
-		<lastmod>2024-10-17T18:57:58+00:00</lastmod>
+		<lastmod>2024-10-20T19:23:07+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/10/Sarah-e1728760338775-811x1024.jpg</image:loc>
 		</image:image>
@@ -85,13 +92,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/10/1618596969626-fotor-2024101620649.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./meetings/index.html</loc>
-		<lastmod>2024-10-13T19:55:48+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/DSCF9508-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

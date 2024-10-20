@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href=".//main-sitemap.xsl"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 	<Document>
-		<name>Locations for Mercury Berlin Toastmasters</name>
+		<name>Locations for Mercury Toastmasters Berlin</name>
 		<open>1</open>
 		<Folder>
+			<atom:link href="./index.html" />
 			<Placemark>
-				<name><![CDATA[Mercury Berlin Toastmasters]]></name>
-				<description><![CDATA[Mercury Berlin Toastmasters - Where Confidence Meets Communication]]></description>
+				<name><![CDATA[Mercury Toastmasters Berlin]]></name>
+				<description><![CDATA[Mercury Berlin Toastmasters - English Speaking Toastmasters Club]]></description>
 				<address><![CDATA[]]></address>
 				<phoneNumber><![CDATA[]]></phoneNumber>
-				<atom:link href=""/>
+				<atom:link href="./index.html"/>
 				<LookAt>
 					<altitude>0</altitude>
 					<range></range>
