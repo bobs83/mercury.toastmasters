@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - Mercury Berlin Toastmasters</title>
+						<title>Locations Sitemap - Mercury Toastmasters Berlin</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - Mercury Berlin Toastmasters</title>
+						<title>XML Sitemap - Mercury Toastmasters Berlin</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
