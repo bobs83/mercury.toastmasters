@@ -11,11 +11,11 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>English Speaking Toastmasters Club</description>
-	<lastBuildDate>Thu, 07 Nov 2024 10:47:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Nov 2024 22:54:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7</generator>
 </channel>
 </rss>
