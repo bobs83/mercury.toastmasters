@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2025-01-18T16:59:50+00:00</lastmod>
+		<lastmod>2025-01-18T23:01:03+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/09/laugh.jpg</image:loc>
 		</image:image>
@@ -32,8 +32,12 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./join-meetings-mercury-toastmasters-berlin/index.html</loc>
+		<lastmod>2025-01-21T13:03:25+00:00</lastmod>
+	</url>
+	<url>
 		<loc>./join-meetings-mercury-toastmasters-berlin-2/index.html</loc>
-		<lastmod>2025-01-16T21:28:28+00:00</lastmod>
+		<lastmod>2025-01-19T13:02:09+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/10/IMG_4833-fotor-20241015161221.jpg</image:loc>
 		</image:image>
@@ -61,7 +65,7 @@
 	</url>
 	<url>
 		<loc>./become-a-member/index.html</loc>
-		<lastmod>2025-01-16T20:18:19+00:00</lastmod>
+		<lastmod>2025-01-19T12:57:24+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/10/Sarah-e1728760338775-811x1024.jpg</image:loc>
 		</image:image>
@@ -86,10 +90,6 @@
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-13.47.11-fotor-20240905162637.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>./join-meetings-mercury-toastmasters-berlin/index.html</loc>
-		<lastmod>2025-01-16T20:18:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>./impressum/index.html</loc>
