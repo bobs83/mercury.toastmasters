@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2025-02-03T10:22:10+00:00</lastmod>
+		<lastmod>2025-02-04T13:58:24+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/09/laugh.jpg</image:loc>
 		</image:image>
@@ -32,36 +32,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./member/index.html</loc>
-		<lastmod>2025-02-03T13:03:57+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/10/Sarah-e1728760338775-811x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/493199773dcad58fbc479aaca87b1422-1024x683.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/60cb679a3732221437bbba6b33667d15-1024x683.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/DSCF0175-Enhanced-NR-scaled-e1728760464398-1039x1536.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/WhatsApp-Image-2024-09-02-at-16.08.36-fotor-bg-remover-20240902161232-fotor-2024090216565.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/WhatsApp-Image-2024-09-02-at-18.57.53-fotor-202409030035.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/WhatsApp-Image-2024-09-02-at-16.41.56-fotor-202409021706.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-13.47.11-fotor-20240905162637.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./member-2-2-2/index.html</loc>
-		<lastmod>2025-02-03T12:57:12+00:00</lastmod>
+		<loc>./about/index.html</loc>
+		<lastmod>2025-02-05T13:19:34+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/10/IMG_4833-fotor-20241015161221.jpg</image:loc>
 		</image:image>
@@ -88,8 +60,36 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./member/index.html</loc>
+		<lastmod>2025-02-05T13:19:06+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/10/Sarah-e1728760338775-811x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/493199773dcad58fbc479aaca87b1422-1024x683.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/60cb679a3732221437bbba6b33667d15-1024x683.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/DSCF0175-Enhanced-NR-scaled-e1728760464398-1039x1536.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/WhatsApp-Image-2024-09-02-at-16.08.36-fotor-bg-remover-20240902161232-fotor-2024090216565.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/WhatsApp-Image-2024-09-02-at-18.57.53-fotor-202409030035.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/WhatsApp-Image-2024-09-02-at-16.41.56-fotor-202409021706.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-13.47.11-fotor-20240905162637.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./join-meetings/index.html</loc>
-		<lastmod>2025-02-03T12:08:46+00:00</lastmod>
+		<lastmod>2025-02-05T13:15:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>./impressum/index.html</loc>
